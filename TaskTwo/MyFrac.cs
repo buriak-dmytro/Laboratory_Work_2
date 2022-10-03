@@ -7,10 +7,10 @@ namespace TaskTwo
         private long nom;
         private long denom;
 
-        public MyFrac(long nom, long denom)
+        public MyFrac(long _nom, long _denom)
         {
-            this.nom = nom;
-            this.denom = denom;
+            this.nom = _nom;
+            this.denom = _denom;
 
             if (denom == 0)
             {
@@ -27,8 +27,8 @@ namespace TaskTwo
             {
                 long GCD = EuclideanAlgorithmGCD(Math.Abs(nom), Math.Abs(denom));
 
-                nom /= GCD;
-                denom /= GCD;
+                this.nom /= GCD;
+                this.denom /= GCD;
             }
             // nom == 0 --- all right
         }

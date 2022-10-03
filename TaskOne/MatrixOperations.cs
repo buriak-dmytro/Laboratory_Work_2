@@ -128,11 +128,11 @@ namespace TaskOne
             {
                 double currentMatrixDeterminant = 0;
 
-                for (int column = 0; column < matrixGiven.GetLength(1); column++)
+                for (int column = 0; column < matrixGiven.GetLength(0); column++)
                 {
                     double[,] matrixGivenSub = new double[matrixGiven.GetLength(0) - 1, matrixGiven.GetLength(0) - 1];
 
-                    for (int rowLocal = 1; rowLocal < matrixGiven.GetLength(0); rowLocal++)
+                    for (int rowLocal = 1; rowLocal < matrixGiven.GetLength(0) - 1; rowLocal++)
                     {
                         for (int columnLocal = 0; columnLocal < column; columnLocal++)
                         {
@@ -141,11 +141,11 @@ namespace TaskOne
 
                         for (int columnLocal = column + 1; columnLocal < matrixGiven.GetLength(0); columnLocal++)
                         {
-                            matrixGivenSub[rowLocal, columnLocal] = matrixGiven[rowLocal, columnLocal];
+                            matrixGivenSub[rowLocal, columnLocal - 1] = matrixGiven[rowLocal, columnLocal];
                         }
                     }
 
-                    currentMatrixDeterminant += matrixGiven[0, column] * Math.Pow(-1, 1 + (column + 1) * MatrixDeterminantSub(matrixGivenSub));
+                    currentMatrixDeterminant += matrixGiven[0, column] * Math.Pow(-1, 1 + (column + 1)) * MatrixDeterminantSub(matrixGivenSub);
                 }
 
                 return currentMatrixDeterminant;

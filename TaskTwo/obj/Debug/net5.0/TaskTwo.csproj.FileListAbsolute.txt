@@ -1,0 +1,16 @@
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\bin\Debug\net5.0\TaskTwo.exe
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\bin\Debug\net5.0\TaskTwo.deps.json
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\bin\Debug\net5.0\TaskTwo.runtimeconfig.json
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\bin\Debug\net5.0\TaskTwo.runtimeconfig.dev.json
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\bin\Debug\net5.0\TaskTwo.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\bin\Debug\net5.0\ref\TaskTwo.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\bin\Debug\net5.0\TaskTwo.pdb
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\obj\Debug\net5.0\TaskTwo.csproj.AssemblyReference.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\obj\Debug\net5.0\TaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\obj\Debug\net5.0\TaskTwo.AssemblyInfoInputs.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\obj\Debug\net5.0\TaskTwo.AssemblyInfo.cs
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\obj\Debug\net5.0\TaskTwo.csproj.CoreCompileInputs.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\obj\Debug\net5.0\TaskTwo.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\obj\Debug\net5.0\ref\TaskTwo.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\obj\Debug\net5.0\TaskTwo.pdb
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskTwo\obj\Debug\net5.0\TaskTwo.genruntimeconfig.cache

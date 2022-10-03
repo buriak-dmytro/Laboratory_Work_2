@@ -1,0 +1,16 @@
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\bin\Debug\net5.0\TaskOne.exe
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\bin\Debug\net5.0\TaskOne.deps.json
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\bin\Debug\net5.0\TaskOne.runtimeconfig.json
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\bin\Debug\net5.0\TaskOne.runtimeconfig.dev.json
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\bin\Debug\net5.0\TaskOne.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\bin\Debug\net5.0\ref\TaskOne.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\bin\Debug\net5.0\TaskOne.pdb
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\obj\Debug\net5.0\TaskOne.csproj.AssemblyReference.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\obj\Debug\net5.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\obj\Debug\net5.0\TaskOne.AssemblyInfoInputs.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\obj\Debug\net5.0\TaskOne.AssemblyInfo.cs
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\obj\Debug\net5.0\TaskOne.csproj.CoreCompileInputs.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\obj\Debug\net5.0\TaskOne.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\obj\Debug\net5.0\ref\TaskOne.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\obj\Debug\net5.0\TaskOne.pdb
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 2\Laboratory_Work_2\TaskOne\obj\Debug\net5.0\TaskOne.genruntimeconfig.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\University ChNU\\Programming\\Year 2\\Term 1\\Laboratory Work 2\\TaskOne\\TaskOne.csproj",
+      "projectUniqueName": "D:\\University ChNU\\Programming\\Year 2\\Term 1\\Laboratory Work 2\\Laboratory_Work_2\\TaskOne\\TaskOne.csproj",
       "projectName": "TaskOne",
-      "projectPath": "D:\\University ChNU\\Programming\\Year 2\\Term 1\\Laboratory Work 2\\TaskOne\\TaskOne.csproj",
+      "projectPath": "D:\\University ChNU\\Programming\\Year 2\\Term 1\\Laboratory Work 2\\Laboratory_Work_2\\TaskOne\\TaskOne.csproj",
       "packagesPath": "C:\\Users\\dimb0\\.nuget\\packages\\",
-      "outputPath": "D:\\University ChNU\\Programming\\Year 2\\Term 1\\Laboratory Work 2\\TaskOne\\obj\\",
+      "outputPath": "D:\\University ChNU\\Programming\\Year 2\\Term 1\\Laboratory Work 2\\Laboratory_Work_2\\TaskOne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -40,6 +40,8 @@ namespace TaskOne
 
             if (!columnLengthDiffers)
             {
+                this.matrix = new double[passedMatrixData.Length, passedMatrixData[0].Length];
+
                 for (int row = 0; row < passedMatrixData.Length; row++)
                 {
                     for (int column = 0; column < passedMatrixData[row].Length; column++)
@@ -74,6 +76,8 @@ namespace TaskOne
 
             if (!columnLengthDiffers)
             {
+                this.matrix = new double[passedMatrixData.Length, currentRowRawData.Length];
+
                 for (int row = 0; row < passedMatrixData.Length; row++)
                 {
                     currentRowRawData = passedMatrixData[row].Replace('\t', ' ').Trim().Split();
@@ -206,7 +210,7 @@ namespace TaskOne
             {
                 for (int row = 0; row < matrix.GetLength(0); row++)
                 {
-                    int currentIntPartLength = ((int)matrix[row, column].ToString().Length);
+                    int currentIntPartLength = matrix[row, column].ToString().Length;
                     if (currentIntPartLength > maxIntPartLengthInColumn[column])
                     {
                         maxIntPartLengthInColumn[column] = currentIntPartLength;
@@ -218,12 +222,15 @@ namespace TaskOne
             {
                 for (int column = 0; column < matrix.GetLength(1); column++)
                 {
-                    output += String.Format(" {0}{1:#.###}", 
-                        new string(' ', maxIntPartLengthInColumn[column] - ((int)matrix[row, column].ToString().Length)),
+                    output += String.Format(" {0}{1}", 
+                        new string(' ', maxIntPartLengthInColumn[column] - matrix[row, column].ToString().Length),
                         matrix[row, column]);
                 }
 
-                output += '\n';
+                if (row < matrix.GetLength(0) - 1)
+                {
+                    output += '\n';
+                }
             }
 
             return output;

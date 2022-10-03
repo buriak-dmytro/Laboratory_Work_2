@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7QDZU8nmdTaYc+S/4GCyY0CmAkf0qIIPS1f+berOzABEVm8sSvK7/ikmpfw3xeh4t3nqu5cJ9pwNjBynFRSdEQ==",
+  "dgSpecHash": "ztb8TOe662YEukL8k9U9czuM0onDpcGZQFIXs50uCPbW2cU+m6DNHGjcvvbn//DFD13FKK1xZMtyH1+lP5Q02w==",
   "success": true,
-  "projectFilePath": "D:\\University ChNU\\Programming\\Year 2\\Term 1\\Laboratory Work 2\\TaskTwo\\TaskTwo.csproj",
+  "projectFilePath": "D:\\University ChNU\\Programming\\Year 2\\Term 1\\Laboratory Work 2\\Laboratory_Work_2\\TaskTwo\\TaskTwo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimb0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
