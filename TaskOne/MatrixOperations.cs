@@ -132,19 +132,22 @@ namespace TaskOne
                 {
                     double[,] matrixGivenSub = new double[matrixGiven.GetLength(0) - 1, matrixGiven.GetLength(0) - 1];
 
-                    for (int rowLocal = 1; rowLocal < matrixGiven.GetLength(0) - 1; rowLocal++)
+                    for (int rowLocal = 0; rowLocal < matrixGiven.GetLength(0) - 1; rowLocal++)
                     {
                         for (int columnLocal = 0; columnLocal < column; columnLocal++)
                         {
-                            matrixGivenSub[rowLocal, columnLocal] = matrixGiven[rowLocal, columnLocal];
+                            matrixGivenSub[rowLocal, columnLocal] = matrixGiven[rowLocal + 1, columnLocal];
                         }
 
                         for (int columnLocal = column + 1; columnLocal < matrixGiven.GetLength(0); columnLocal++)
                         {
-                            matrixGivenSub[rowLocal, columnLocal - 1] = matrixGiven[rowLocal, columnLocal];
+                            matrixGivenSub[rowLocal, columnLocal - 1] = matrixGiven[rowLocal + 1, columnLocal];
                         }
                     }
-
+                    //
+                    MyMatrix m = new MyMatrix(matrixGivenSub);
+                    Console.WriteLine(m);
+                    //
                     currentMatrixDeterminant += matrixGiven[0, column] * Math.Pow(-1, 1 + (column + 1)) * MatrixDeterminantSub(matrixGivenSub);
                 }
 
