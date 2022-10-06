@@ -144,10 +144,7 @@ namespace TaskOne
                             matrixGivenSub[rowLocal, columnLocal - 1] = matrixGiven[rowLocal + 1, columnLocal];
                         }
                     }
-                    //
-                    MyMatrix m = new MyMatrix(matrixGivenSub);
-                    Console.WriteLine(m);
-                    //
+                    
                     currentMatrixDeterminant += matrixGiven[0, column] * Math.Pow(-1, 1 + (column + 1)) * MatrixDeterminantSub(matrixGivenSub);
                 }
 
